@@ -1,7 +1,7 @@
 # High Stakes Exam Organizer
 
-A desktop application for organizing high-stakes university exams.
-Developed by **Your Name** with assistance from **Deepseek-v4**.
+A desktop application for organizing high-stakes university and school exams.
+Developed by **Kutay Uzun** with assistance from **Deepseek-v4**.
 
 ---
 
